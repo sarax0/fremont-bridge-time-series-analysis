@@ -2,7 +2,8 @@
 
 ## Overview
 This repository contains Python code for analyzing time series data of bicycle counts on Seattle’s Fremont Bridge. The data is collected from an automated bicycle counter installed in late 2012, which has inductive sensors on the east and west sidewalks of the bridge.
-<img src="https://images.squarespace-cdn.com/content/562d32dee4b079eaf38ef0b2/1450723713229-KEED556GAYET19KZXWV3/?content-type=image%2Fjpeg" alt="Fremont Bridge Bicycle Counts" width="400">
+
+<img src="https://images.squarespace-cdn.com/content/562d32dee4b079eaf38ef0b2/1450723713229-KEED556GAYET19KZXWV3/?content-type=image%2Fjpeg" alt="Fremont Bridge Bicycle Counts" height="200">
 
 ## Dataset
 The dataset consists of historical bicycle counts recorded by the sensors on the Fremont Bridge. Each record typically includes the timestamp and the number of bicycles passing in each direction (eastbound and westbound). The dataset allows for the analysis of bicycle traffic patterns over time.
